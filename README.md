@@ -1,6 +1,6 @@
 # Introduction to the Julia programming language
 
-Material for the Julia workshop at SUStech taking place from 5th till 7th February 2023.
+Material for the Julia workshop at SUStech taking place from 5th till 7th October 2022.
 
 ## Software and material
 What you need for the workshop (quick overview):
